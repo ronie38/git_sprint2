@@ -15,3 +15,5 @@ Git branching is a feature that allows you to diverge from the main line of deve
 without affecting the main codebase.
 Branching essentially creates a separate line of development within a repository, enabling multiple developers to work on different features 
 simultaneously or to experiment with new ideas without disrupting the stable codebase.
+
+Tagging a Commit: Once you've identified the commit, use the git tag command to create a tag. 
