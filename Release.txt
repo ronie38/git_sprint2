@@ -1,2 +1,5 @@
 Create a Release on GitHub: Go to repository on GitHub. Navigate to the "Releases" section, usually found under the "Code" tab. 
 Click on the "Draft a new release" button.
+
+Release Information:  In the release creation form, specify the tag version (e.g., v1.0), a title for the release, and optionally a description.
+ You can also attach files or provide release notes.
