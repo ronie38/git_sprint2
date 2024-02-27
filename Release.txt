@@ -1,0 +1,2 @@
+Create a Release on GitHub: Go to repository on GitHub. Navigate to the "Releases" section, usually found under the "Code" tab. 
+Click on the "Draft a new release" button.
