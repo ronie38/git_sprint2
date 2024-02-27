@@ -10,3 +10,7 @@ These are some of the tasks that I'm going to perform in the GIT
 4. Merging and Resolving Conflicts
 5. Tagging and Releases
 
+
+
+Creating a release in Git typically involves tagging a specific commit to mark it as a release point and then creating a corresponding release
+in a Git hosting platform such as GitHub, GitLab, or Bitbucket. 
